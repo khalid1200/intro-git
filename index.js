@@ -1,4 +1,5 @@
 // untracked file : file yg belum pernah di monitoring
+// untuk aktivasi git : git init
 // untuk add FILE TERTENTU ke staged area : git add namaFile.js
 // untuk add SATU FOLDER ke staged area : git add .
 // untuk mengeluarkan (remove) dari staged area : git rm --cached namaFile.js
